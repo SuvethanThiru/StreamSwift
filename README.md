@@ -1,2 +1,2 @@
-# streamSwift
+# StreamSwift
 Youtube Video Downloader
